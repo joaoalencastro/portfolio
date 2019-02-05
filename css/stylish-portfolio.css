@@ -302,6 +302,21 @@ h6 {
   }
 }
 
+.profile {
+  background:white; /*url(../img/portfolio-1.olddd.jpg);*/
+  position: relative;
+  padding: 1rem;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.responsive {
+  width: 60%;
+  height: auto;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
 footer.footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
